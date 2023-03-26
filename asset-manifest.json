@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cource/static/css/main.fcaba39e.css",
+    "main.js": "/react-cource/static/js/main.ec39f968.js",
+    "index.html": "/react-cource/index.html",
+    "main.fcaba39e.css.map": "/react-cource/static/css/main.fcaba39e.css.map",
+    "main.ec39f968.js.map": "/react-cource/static/js/main.ec39f968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcaba39e.css",
+    "static/js/main.ec39f968.js"
+  ]
+}
